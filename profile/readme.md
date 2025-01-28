@@ -9,5 +9,5 @@ Additional code for the assignments is in the `/code` folder.
 
 
 Bart Krekelberg - Jan 2025
-[vision.rutgers.edu](https://vision.rutgers.edu)
+[vision.rutgers.edu](https://www.vision.rutgers.edu)
 
